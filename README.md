@@ -25,8 +25,8 @@ The project is built on the following technologies:
 
 * **Backend Framework:** **Laravel** (PHP)
 * **Language:** **PHP**
-* **Database:** Typically **MySQL** or **PostgreSQL**
-* **Frontend:** **HTML**, **CSS**, **JavaScript** (likely utilizing a Laravel-friendly stack like **Blade** templates, potentially with **Bootstrap** or **Tailwind CSS**).
+* **Database:** **MySQL**
+* **Frontend:** **HTML**, **CSS**, **JavaScript**
 
 <hr>
 
@@ -41,7 +41,7 @@ Ensure you have the following software installed on your system:
 * **PHP** (v7.4 or higher recommended)
 * **Composer**
 * **Node.js** and **npm** (for front-end asset compilation)
-* **Database Server** (e.g., MySQL)
+* **MySQL Server**
 
 ### Installation
 
